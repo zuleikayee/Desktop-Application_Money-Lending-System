@@ -1,0 +1,42 @@
+c:\users\zayee\documents\visual studio 2015\Projects\boombroom\boombroom\bin\Debug\boombroom.exe.config
+C:\Users\zayee\Documents\Visual Studio 2015\Projects\boombroom\boombroom\bin\Debug\boombroom.exe
+C:\Users\zayee\Documents\Visual Studio 2015\Projects\boombroom\boombroom\bin\Debug\boombroom.pdb
+C:\Users\zayee\Documents\Visual Studio 2015\Projects\boombroom\boombroom\obj\Debug\boombroom.csprojResolveAssemblyReference.cache
+C:\Users\zayee\Documents\Visual Studio 2015\Projects\boombroom\boombroom\obj\Debug\boombroom.formStart.resources
+C:\Users\zayee\Documents\Visual Studio 2015\Projects\boombroom\boombroom\obj\Debug\boombroom.fromUser.resources
+C:\Users\zayee\Documents\Visual Studio 2015\Projects\boombroom\boombroom\obj\Debug\boombroom.formAdmin.resources
+C:\Users\zayee\Documents\Visual Studio 2015\Projects\boombroom\boombroom\obj\Debug\boombroom.Properties.Resources.resources
+C:\Users\zayee\Documents\Visual Studio 2015\Projects\boombroom\boombroom\obj\Debug\boombroom.csproj.GenerateResource.Cache
+C:\Users\zayee\Documents\Visual Studio 2015\Projects\boombroom\boombroom\obj\Debug\boombroom.exe
+C:\Users\zayee\Documents\Visual Studio 2015\Projects\boombroom\boombroom\obj\Debug\boombroom.pdb
+C:\Users\Sam\Documents\boombroom\boombroom\bin\Debug\boombroom.exe.config
+C:\Users\Sam\Documents\boombroom\boombroom\bin\Debug\boombroom.exe
+C:\Users\Sam\Documents\boombroom\boombroom\bin\Debug\boombroom.pdb
+C:\Users\Sam\Documents\boombroom\boombroom\obj\Debug\boombroom.CustomerAccount.resources
+C:\Users\Sam\Documents\boombroom\boombroom\obj\Debug\boombroom.Properties.Resources.resources
+C:\Users\Sam\Documents\boombroom\boombroom\obj\Debug\boombroom.csproj.GenerateResource.Cache
+C:\Users\Sam\Documents\boombroom\boombroom\obj\Debug\boombroom.exe
+C:\Users\Sam\Documents\boombroom\boombroom\obj\Debug\boombroom.pdb
+C:\Users\Sam\Documents\boombroom\boombroom\obj\Debug\boombroom.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\boombroom\boombroom\obj\Debug\boombroom.Login.resources
+C:\Users\Sam\Documents\boombroom\boombroom\obj\Debug\boombroom.Admin.resources
+C:\Users\Sam\Documents\boombroom\boombroom\obj\Debug\boombroom.addAccount.resources
+C:\Users\Sam\Documents\boombroom\boombroom\obj\Debug\boombroom.addPayment.resources
+C:\Users\Sam\Documents\boombroom\boombroom\bin\Debug\MySql.Data.dll
+C:\Users\Sam\Documents\boombroom\boombroom\bin\Debug\MySql.Data.xml
+C:\Users\Rizalin Yee\Documents\boombroom\boombroom\bin\Debug\boombroom.exe.config
+C:\Users\Rizalin Yee\Documents\boombroom\boombroom\obj\Debug\boombroom.exe
+C:\Users\Rizalin Yee\Documents\boombroom\boombroom\obj\Debug\boombroom.pdb
+C:\Users\Rizalin Yee\Documents\boombroom\boombroom\bin\Debug\boombroom.exe
+C:\Users\Rizalin Yee\Documents\boombroom\boombroom\bin\Debug\boombroom.pdb
+C:\Users\Rizalin Yee\Documents\boombroom\boombroom\bin\Debug\MySql.Data.dll
+C:\Users\Rizalin Yee\Documents\boombroom\boombroom\bin\Debug\MySql.Data.xml
+C:\Users\Rizalin Yee\Documents\boombroom\boombroom\obj\Debug\boombroom.csprojResolveAssemblyReference.cache
+C:\Users\Rizalin Yee\Documents\boombroom\boombroom\obj\Debug\boombroom.addAccount.resources
+C:\Users\Rizalin Yee\Documents\boombroom\boombroom\obj\Debug\boombroom.addPayment.resources
+C:\Users\Rizalin Yee\Documents\boombroom\boombroom\obj\Debug\boombroom.Login.resources
+C:\Users\Rizalin Yee\Documents\boombroom\boombroom\obj\Debug\boombroom.CustomerAccount.resources
+C:\Users\Rizalin Yee\Documents\boombroom\boombroom\obj\Debug\boombroom.Admin.resources
+C:\Users\Rizalin Yee\Documents\boombroom\boombroom\obj\Debug\boombroom.Properties.Resources.resources
+C:\Users\Rizalin Yee\Documents\boombroom\boombroom\obj\Debug\boombroom.csproj.GenerateResource.Cache
+C:\Users\Rizalin Yee\Documents\boombroom\boombroom\obj\Debug\boombroom.UpdateCustomer.resources
